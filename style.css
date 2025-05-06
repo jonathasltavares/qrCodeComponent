@@ -23,7 +23,7 @@ body{
     align-items: center;
 }
 
-content{
+main{
     background-color: var(--white);
 
     max-width: 20rem;
