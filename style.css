@@ -41,7 +41,7 @@ body{
     max-width: 288px;
     max-height: 288px;
 }
-.text > p{
+.text > p, h1{
     max-width: 288px;
     text-align: center;
 }
